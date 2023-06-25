@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Pra entrar em contato, abaixo minhas redes sociais!
  
 <div> 
 
