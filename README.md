@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Pra entrar em contato, abaixo minhas redes sociais!
+  ### Para entrar em contato, seguem abaixo minhas redes sociais!
  
 <div> 
 
