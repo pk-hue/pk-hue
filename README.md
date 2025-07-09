@@ -6,7 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk-hue&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
- ### Tecnologias 
 <div style="display: inline_block"><br>
  <img align="center" alt="cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
