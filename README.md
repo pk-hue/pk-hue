@@ -1,9 +1,9 @@
-# 👨🏻‍💻What's up? I'm Pedro H.
+# What's up? I'm Pedro H.
 **`Backend Developer`**
 
 Backend-focused developer with a strong interest in Java and Spring Boot. Passionate about building scalable APIs, writing clean code, and continuously improving software quality.
 
-## 🤖 Languages and Technologies
+## ⚙ Languages and Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" />
