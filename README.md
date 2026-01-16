@@ -34,9 +34,9 @@ Backend-focused developer with a strong interest in Java and Spring Boot. Passio
 <h3 align="center">📊 Estatísticas</h3>
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenmenezes&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pk-hue&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk-hue&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165"/>
 </p> -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A00000&height=120&section=footer"/>
