@@ -38,5 +38,5 @@ Backend-focused developer with a strong interest in Java and Spring Boot. Passio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk-hue&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165"/>
 </p> -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A00000&height=120&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=120&section=footer"/>
