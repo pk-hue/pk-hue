@@ -23,7 +23,7 @@ Backend-focused developer with a strong interest in Java and Spring Boot. Passio
 </p>
 
  
-  ### Para entrar em contato, seguem abaixo minhas redes sociais!
+  ### Check out my socials below to get in touch.
  
 <div> 
   <a href="https://www.instagram.com/pk_lorenfc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@ Backend-focused developer with a strong interest in Java and Spring Boot. Passio
   <a href="https://www.linkedin.com/in/pedro-h-7a0336249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center">Estatísticas</h3>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=120&section=footer"/>
