@@ -4,7 +4,7 @@
   alt="Header"
 />
 
-Backend-focused developer with a strong interest in Java and Spring Boot. Passionate about building scalable APIs, writing clean code, and continuously improving software quality.
+Backend-focused software engineer with a strong interest in Java and Spring Boot. Passionate about building scalable APIs, writing clean code, and continuously improving software quality.
 
 ## ⚙ Languages and Technologies
 
