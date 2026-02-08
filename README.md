@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header&text=Pedro%20H.&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=000000&reversal=false&customColorList=1,2,3,4&fontColor=00aaff&height=180&section=header&text=Pedro%20H.&fontSize=50&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18"
   alt="Header"
 />
 
