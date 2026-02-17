@@ -42,3 +42,8 @@ Backend-focused software engineer with a strong interest in Java and Spring Boot
   src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=footer"
   alt="Footer"
 />
+
+# Atividade no GitHub
+![Gráfico de Atividade](https://github-readme-stats.vercel.app/api/wakatime?username=pk-hue&layout=radar)
+
+![Status de Atividade](https://github-readme-stats.vercel.app/api?username=pk-hue&show_icons=true&theme=dark)
