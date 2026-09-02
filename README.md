@@ -36,7 +36,7 @@ Backend-focused software engineer with a strong interest in Java and Spring Boot
 
 <h3 align="center">Estatísticas</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pk-hue&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true)
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=footer"
